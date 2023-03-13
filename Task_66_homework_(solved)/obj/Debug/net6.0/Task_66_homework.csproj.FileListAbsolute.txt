@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\obj\Debug\net6.0\Task_66_homework.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\obj\Debug\net6.0\Task_66_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\obj\Debug\net6.0\Task_66_homework.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\obj\Debug\net6.0\Task_66_homework.AssemblyInfo.cs
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\obj\Debug\net6.0\Task_66_homework.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\bin\Debug\net6.0\Task_66_homework.exe
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\bin\Debug\net6.0\Task_66_homework.deps.json
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\bin\Debug\net6.0\Task_66_homework.runtimeconfig.json
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\bin\Debug\net6.0\Task_66_homework.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\bin\Debug\net6.0\Task_66_homework.pdb
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\obj\Debug\net6.0\Task_66_homework.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\obj\Debug\net6.0\refint\Task_66_homework.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\obj\Debug\net6.0\Task_66_homework.pdb
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\obj\Debug\net6.0\Task_66_homework.genruntimeconfig.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_66_homework\obj\Debug\net6.0\ref\Task_66_homework.dll

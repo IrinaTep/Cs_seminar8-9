@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\obj\Debug\net6.0\Task_63_recursion.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\obj\Debug\net6.0\Task_63_recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\obj\Debug\net6.0\Task_63_recursion.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\obj\Debug\net6.0\Task_63_recursion.AssemblyInfo.cs
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\obj\Debug\net6.0\Task_63_recursion.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\bin\Debug\net6.0\Task_63_recursion.exe
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\bin\Debug\net6.0\Task_63_recursion.deps.json
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\bin\Debug\net6.0\Task_63_recursion.runtimeconfig.json
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\bin\Debug\net6.0\Task_63_recursion.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\bin\Debug\net6.0\Task_63_recursion.pdb
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\obj\Debug\net6.0\Task_63_recursion.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\obj\Debug\net6.0\refint\Task_63_recursion.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\obj\Debug\net6.0\Task_63_recursion.pdb
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\obj\Debug\net6.0\Task_63_recursion.genruntimeconfig.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_63_recursion\obj\Debug\net6.0\ref\Task_63_recursion.dll

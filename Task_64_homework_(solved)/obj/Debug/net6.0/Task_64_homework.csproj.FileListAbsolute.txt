@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\bin\Debug\net6.0\Task_64_homework.exe
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\bin\Debug\net6.0\Task_64_homework.deps.json
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\bin\Debug\net6.0\Task_64_homework.runtimeconfig.json
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\bin\Debug\net6.0\Task_64_homework.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\bin\Debug\net6.0\Task_64_homework.pdb
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\obj\Debug\net6.0\Task_64_homework.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\obj\Debug\net6.0\Task_64_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\obj\Debug\net6.0\Task_64_homework.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\obj\Debug\net6.0\Task_64_homework.AssemblyInfo.cs
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\obj\Debug\net6.0\Task_64_homework.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\obj\Debug\net6.0\Task_64_homework.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\obj\Debug\net6.0\refint\Task_64_homework.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\obj\Debug\net6.0\Task_64_homework.pdb
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\obj\Debug\net6.0\Task_64_homework.genruntimeconfig.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_8\Task_64_homework\obj\Debug\net6.0\ref\Task_64_homework.dll

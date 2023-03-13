@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task_63_recursion/1.0.0": {
+        "runtime": {
+          "Task_63_recursion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task_63_recursion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
